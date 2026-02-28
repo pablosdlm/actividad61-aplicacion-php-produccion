@@ -27,6 +27,7 @@ INSERT INTO clasificacion (nombre, apellido, dorsal, puntos, escuderia, nacional
 ('Alexander', 'Albon', 23, 73, 'Williams', 'Tailandia'),
 ('Carlos', 'Sainz', 55, 64, 'Williams', 'España'),
 ('Fernando', 'Alonso', 14, 56, 'Aston Martin', 'España'),
+('Nico', 'Hulkenberg', 27, 51, 'Kick Sauber', 'Alemania'),
 ('Gabriel', 'Bortoleto', 5, 19, 'Kick Sauber', 'Brasil');
 
 INSERT INTO usuarios (nombre_usuario, contrasena, correo, creacion)
